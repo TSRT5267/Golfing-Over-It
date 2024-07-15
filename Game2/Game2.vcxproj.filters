@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="Main.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Ball.h" />
+    <ClInclude Include="Wall.h" />
+    <ClInclude Include="Obstacle.h" />
+    <ClInclude Include="Ball_guideLine.h" />
+    <ClInclude Include="MapObject.h" />
+    <ClInclude Include="Ball_trail.h" />
+    <ClInclude Include="Ending.h" />
+    <ClInclude Include="Title.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Ball.cpp" />
+    <ClCompile Include="Wall.cpp" />
+    <ClCompile Include="Obstacle.cpp" />
+    <ClCompile Include="Ball_guideLine.cpp" />
+    <ClCompile Include="MapObject.cpp" />
+    <ClCompile Include="Ball_trail.cpp" />
+    <ClCompile Include="Ending.cpp" />
+    <ClCompile Include="Title.cpp" />
+  </ItemGroup>
+</Project>
